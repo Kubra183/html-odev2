@@ -1,2 +1,2 @@
 # html-odev2
-html odev2
+İkinci web sayfası
